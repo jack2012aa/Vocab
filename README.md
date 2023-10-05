@@ -13,7 +13,7 @@ To relate words with similar meaning, a tree structure is used in `Dictionary`. 
 `Dictionary.vec` stores words. `Dictionary.map` stores pointers to words in `Dictionary.vec`. The map helps to access Word faster. 
 
 ## Result
-[image](https://github.com/jack2012aa/Vocab/blob/main/result/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
+![image](https://github.com/jack2012aa/Vocab/blob/main/result/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
 ## To Do
 * Use `Map` to reconstruct `Dictionary.map`.
 * Refine the workflow.
